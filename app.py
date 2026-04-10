@@ -119,4 +119,4 @@ with st.expander('Analyze Excel files'):
 # ---------------- FOOTER ---------------- #
 st.write("\n" * 5)
 st.markdown("<hr style='border: 2px solid black;'>", unsafe_allow_html=True)
-st.write("Copy© 2026 Azib Sindhu | Made With ❤️ in Pakistan")
+st.write("Copy© 2026 Shahzaib Ali | Made With ❤️ in Pakistan")
